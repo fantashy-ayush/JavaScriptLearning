@@ -22,5 +22,3 @@ console.log("B",Array);
 const myn2=Array.splice(1,3)
 console.log(myn2);
 console.log(Array)
-
-console.log("Ayush is successful")
