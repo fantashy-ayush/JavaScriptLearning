@@ -62,7 +62,7 @@ const course = {
 
 // course.courseInstructor
 
-const {courseInstructor: instructor} = course
+const {courseInstructor: instructor} = course //change the key
 
 // console.log(courseInstructor);
 console.log(instructor);
