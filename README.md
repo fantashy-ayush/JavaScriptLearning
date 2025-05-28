@@ -10,5 +10,9 @@ This is my Javascript Learning portfolio
  ### Solution 1
  ```JavaScript
  console.log("Ayush")
- 
+ ```
+
+ ### Solution 2
+ ```JavaScript
+console.log("Ayush")
  ```
